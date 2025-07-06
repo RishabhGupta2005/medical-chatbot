@@ -1,0 +1,105 @@
+symptom,department
+chest pain,Cardiology
+shortness of breath,Pulmonology
+irregular heartbeat,Cardiology
+numbness in limbs,Neurology
+muscle weakness,Neurology
+headache,Neurology
+migraine,Neurology
+dizziness,Neurology
+seizures,Neurology
+fainting,Neurology
+skin rash,Dermatology
+itchy skin,Dermatology
+acne,Dermatology
+dry skin,Dermatology
+hair loss,Dermatology
+fever,General Medicine
+fatigue,General Medicine
+body ache,General Medicine
+sore throat,ENT
+ear pain,ENT
+hearing loss,ENT
+nasal congestion,ENT
+nosebleed,ENT
+vision loss,Ophthalmology
+blurry vision,Ophthalmology
+eye pain,Ophthalmology
+red eyes,Ophthalmology
+watery eyes,Ophthalmology
+stomach ache,Gastroenterology
+bloating,Gastroenterology
+indigestion,Gastroenterology
+vomiting,Gastroenterology
+constipation,Gastroenterology
+diarrhea,Gastroenterology
+joint pain,Orthopedics
+back pain,Orthopedics
+neck pain,Orthopedics
+swollen joints,Orthopedics
+shoulder pain,Orthopedics
+knee pain,Orthopedics
+burning during urination,Urology
+frequent urination,Urology
+blood in urine,Urology
+urinary retention,Urology
+irregular periods,Gynecology
+menstrual cramps,Gynecology
+vaginal discharge,Gynecology
+pregnancy issues,Gynecology
+breast lump,Oncology
+unexplained weight loss,Oncology
+swollen lymph nodes,Oncology
+night sweats,Oncology
+persistent cough,Pulmonology
+coughing blood,Pulmonology
+asthma,Pulmonology
+wheezing,Pulmonology
+sleep disturbances,Psychiatry
+anxiety,Psychiatry
+depression,Psychiatry
+hallucinations,Psychiatry
+memory loss,Neurology
+increased thirst,Endocrinology
+frequent urination at night,Endocrinology
+sudden weight gain,Endocrinology
+sensitivity to cold,Endocrinology
+sensitivity to heat,Endocrinology
+palpitations,Cardiology
+excessive sweating,General Medicine
+mouth ulcers,Dentistry
+bleeding gums,Dentistry
+toothache,Dentistry
+jaw pain,Dentistry
+frequent infections,Immunology
+bruising easily,Hematology
+bleeding easily,Hematology
+dry mouth,General Medicine
+difficulty swallowing,ENT
+hoarseness,ENT
+abdominal pain,Gastroenterology
+yellow skin,Hepatology
+dark urine,Hepatology
+light-colored stools,Hepatology
+upper abdominal pain,Gastroenterology
+persistent hiccups,General Medicine
+loss of appetite,General Medicine
+weight gain,Endocrinology
+thinning hair,Dermatology
+brittle nails,Dermatology
+painful urination,Urology
+urine odor,Urology
+abnormal vaginal bleeding,Gynecology
+pelvic pain,Gynecology
+erectile dysfunction,Urology
+testicular pain,Urology
+lump in neck,Oncology
+trouble concentrating,Psychiatry
+fear or panic,Psychiatry
+social withdrawal,Psychiatry
+insomnia,Psychiatry
+excessive thirst,Endocrinology
+dry eyes,Ophthalmology
+photophobia,Ophthalmology
+drooping eyelid,Neurology
+tremors,Neurology
