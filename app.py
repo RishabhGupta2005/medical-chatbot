@@ -10,4 +10,4 @@ user_input = st.text_input("Enter your symptom(s):")
 if user_input:
     with st.spinner("Analyzing..."):
         result = predict_department(user_input)
-        st.success(result)
+        st.success(f"🏥 Department: {result['department']}\n\nℹ️ {result['explanation']}")
