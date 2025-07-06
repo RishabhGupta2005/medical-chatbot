@@ -1,0 +1,15 @@
+[theme]
+primaryColor="#0066cc"
+backgroundColor="#f0f8ff"
+secondaryBackgroundColor="#dceeff"
+textColor="#000000"
+font="sans serif"
+
+[server]
+headless = true
+
+[theme]
+base = "light"
+
+[ui]
+layout = "wide" 
